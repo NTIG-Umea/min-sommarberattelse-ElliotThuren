@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 40rem;
+}
+
+.centrera {
+    text-align: center;
+}
+
+.rubrikfont {
+    font-family: 'Rampart One', cursive;
+}
+
+.svar {
+    text-decoration: underline;
+    color: darkgrey;
+}
